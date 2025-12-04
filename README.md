@@ -21,7 +21,7 @@ nyc_taxi_project/
 ├──.gitignore
 ├── analysis.py
 ├── README.md
-├── sample_cleaned.csv          # auto-generated
+├── sample_cleaned.csv # auto-generated
 └── plots/
     ├── trip_duration_distribution.png
     ├── trips_by_hour.png
